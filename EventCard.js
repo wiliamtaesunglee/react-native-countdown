@@ -2,7 +2,7 @@ import React from 'react';
 import { Text, View, StyleSheet } from 'react-native';
 import PropTypes from 'prop-types';
 import { formatDate, getCountdownParts } from './api';
-import { HitTestResultTypes } from 'expo/build/AR';
+
 
 const styles = StyleSheet.create({
         card: {
